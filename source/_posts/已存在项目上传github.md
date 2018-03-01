@@ -46,8 +46,9 @@ git remote add origin https://github.com/hunsy/mc.git`
 #### 7. 提交代码到git仓库
 
 ```
-git push origin master
+git push -u origin master
 ```
 
 #### 参考：
-[an example](http://example.com/ "Title")
+
+![github](/images/img1.png)
